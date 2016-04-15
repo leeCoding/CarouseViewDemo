@@ -1,6 +1,7 @@
-# LTCarouseView
-1.一个简单轮播控件，支持本地图片和网络图片
-2.使用方法
+# LTCarouseView #
+====
+一个简单轮播控件，支持本地图片和网络图片，使用方法如下
+------
 
     /* 设置本地图片方法 */
     LTCarouseView *carouseView = [[LTCarouseView alloc]initWithFrame:CGRectMake(0, 0, self.view.frame.size.width, 200)];
